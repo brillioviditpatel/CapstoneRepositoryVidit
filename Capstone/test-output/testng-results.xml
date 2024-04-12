@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-07T12:37:48 IST" name="Default suite" finished-at="2024-04-07T12:38:29 IST" duration-ms="41242">
+    <groups>
+    </groups>
+    <test started-at="2024-04-07T12:37:48 IST" name="Default test" finished-at="2024-04-07T12:38:29 IST" duration-ms="41242">
+      <class name="testCases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.LoginPageTest@5fe94a96]" started-at="2024-04-07T12:37:48 IST" name="setUp" finished-at="2024-04-07T12:37:53 IST" duration-ms="4907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ForgotFunctionality()[pri:0, instance:testCases.LoginPageTest@5fe94a96]" started-at="2024-04-07T12:37:53 IST" name="ForgotFunctionality" finished-at="2024-04-07T12:38:04 IST" duration-ms="10864" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForgotFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.LoginPageTest@5fe94a96]" started-at="2024-04-07T12:38:04 IST" name="tearDown" finished-at="2024-04-07T12:38:04 IST" duration-ms="270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.LoginPageTest@5fe94a96]" started-at="2024-04-07T12:38:04 IST" name="setUp" finished-at="2024-04-07T12:38:08 IST" duration-ms="3536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginSuccessful()[pri:0, instance:testCases.LoginPageTest@5fe94a96]" started-at="2024-04-07T12:38:08 IST" name="LoginSuccessful" finished-at="2024-04-07T12:38:16 IST" duration-ms="8314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginSuccessful -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.LoginPageTest@5fe94a96]" started-at="2024-04-07T12:38:16 IST" name="tearDown" finished-at="2024-04-07T12:38:16 IST" duration-ms="215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.LoginPageTest@5fe94a96]" started-at="2024-04-07T12:38:16 IST" name="setUp" finished-at="2024-04-07T12:38:20 IST" duration-ms="4108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginWithInvalidCredentials()[pri:0, instance:testCases.LoginPageTest@5fe94a96]" started-at="2024-04-07T12:38:20 IST" name="LoginWithInvalidCredentials" finished-at="2024-04-07T12:38:29 IST" duration-ms="8723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithInvalidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.LoginPageTest@5fe94a96]" started-at="2024-04-07T12:38:29 IST" name="tearDown" finished-at="2024-04-07T12:38:29 IST" duration-ms="231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
